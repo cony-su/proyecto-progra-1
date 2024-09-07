@@ -5,7 +5,7 @@ class Factura //ESTA CLASE REPRESENTA UNA FACTURA INDIVIDUAL
   private String fechaEmision; //pasar el tipo de variable a LocalDate luego+++++++++++++++++++++++++++++++++++++++
   private boolean pagado;
 
-    // Constructor
+  
   public Factura(String idFactura, double monto, String fechaEmision, boolean pagado) {
     this.idFactura = idFactura;
     this.monto = monto;

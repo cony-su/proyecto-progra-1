@@ -44,7 +44,6 @@ class Menus
     System.out.println("- Llamadas nacionales: 60 minutos");
     System.out.println("- Llamadas internaciones: 0 minutos");
     System.out.println("- Datos móviles: 10 GB");
-   // System.out.println("- Mensajes: 10 SMS");
     System.out.println("Precio: $8000\n");   
   }
 
@@ -55,7 +54,6 @@ class Menus
       System.out.println("- Llamadas nacionales: 120 minutos");
       System.out.println("- Llamadas internaciones: 30 minutos");
       System.out.println("- Datos móviles: 50 GB");
-     // System.out.println("- Mensajes: 10 SMS");
       System.out.println("Precio: $12000\n"); 
     }
 
@@ -77,7 +75,6 @@ class Menus
     System.out.println("- Llamadas nacionales: minutos ilimitados");
     System.out.println("- Llamadas internaciones: minutos ilimitados");
     System.out.println("- Datos móviles: GB ilimitados");
-   // System.out.println("- Mensajes: 10 SMS");
     System.out.println("Precio: $20000\n"); 
   }
 

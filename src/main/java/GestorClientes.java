@@ -154,7 +154,7 @@ class GestorClientes
         }
   }
 
-  public void buscarCliente(HashMap <String, Cliente> mapaNombre, HashMap <String, Cliente> mapaRut, HashMap <String, Cliente> mapaIDFactura ) throws IOException
+  public void buscarCliente(HashMap <String, Cliente> mapaNombre, HashMap <String, Cliente> mapaRut, HashMap <String, Cliente> mapaIDFactura) throws IOException
   {
     System.out.println("Ingrese la opción ");
     int opcionbusqueda = Integer.parseInt(lector.readLine());

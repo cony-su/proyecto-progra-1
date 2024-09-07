@@ -1,7 +1,7 @@
 class DatosPersonales
 {  
   private String nombreCliente;
-  private String fechaNacimiento; //despues cambiar el tipo de variable a una LocalDate+++++++++++++++++++++++++
+  private String fechaNacimiento; 
   private String direccion;
   private int numeroIdentificacion;
   private String rut; 

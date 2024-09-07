@@ -9,7 +9,7 @@ class Tarjeta
 
   public Tarjeta(int metodoPago, int tipoTarjeta, String nombreTitular, String numeroTarjeta, String fechaVencimiento, String codigoSeguridad)
   {
-    if(metodoPago == 1) //credito
+    if(metodoPago == 1)
     {
       this.metodoPago = "Credito";
         switch(tipoTarjeta)

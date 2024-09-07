@@ -73,6 +73,12 @@ class Cliente
     facturas.add(factura);
   }
 
+  public void agregarFactura(String idFactura, double monto, String fechaEmision, boolean pagado)
+  {
+    Factura factura = new Factura(idFactura, monto, fechaEmision, pagado);
+    facturas.add(factura);
+  }
+
   public void agregarTarjeta(Tarjeta tarjeta)
   {
     tarjetasRegistradas.add(tarjeta);
