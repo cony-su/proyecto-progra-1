@@ -1,0 +1,13 @@
+nombre,feacha nacimiento,direccion,numeroID,rut,telefono,correo,marca telefono,modelo telefono,num serie telefono,tipo plan,costo plan,llamdasIli,limitLlamadas,llamIntIli,limitLlamInt,datosIlim,limDatos
+Juan Pérez,15/03/94,Calle Falsa 123,1001,12345678-9,987654321,juan.perez@email.com,Galaxy,S15,1200,Plan Normal,8000,false ,200,false ,100,false ,100
+María Gómez,22/07/98,Avenida Siempre Viva 456,1002,23456789-0,976543210,maria.gomez@email.com,Galaxy,A12,1548,Plan Premium,20000,true ,0,true ,0,true ,0
+Pedro López,11/12/83,Calle Nueva 789,1003,34567890-1,965432109,pedro.lopez@email.com,Xiaomi,720,7435,Plan Económico,8000,false ,60,false ,0,false ,10
+Lucía Morales,05/09/88,Calle Real 101,1004,45678901-2,954321098,lucia.morales@email.com,Iphone,13,1952,Plan Básico,12000,false ,120,false ,30,false ,50
+José Martínez,30/11/94,Avenida Central 202,1005,56789012-3,943210987,jose.martinez@email.com,Nokia,1500,4857,Plan Económico,8000,false ,60,false ,0,false ,10
+Ana Rivas,10/05/91,Calle Verde 303,1006,67890123-4,932109876,ana.rivas@email.com,Iphone,14,6253,Plan Normal,15000,false ,200,false ,100,false ,100
+Francisco Castro,25/06/78,Avenida del Sol 404,1007,78901234-5,921098765,francisco.castro@email.com,Iphone,5,9502,Plan Premium,20000,true ,0,true ,0,true ,0
+Carmen Fuentes,16/08/95,Calle Luna 505,1008,89012345-6,910987654,carmen.fuentes@email.com,Nokia,S12,4528,Plan Normal,15000,false ,200,false ,100,false ,100
+Andrés Bravo,20/01/91,Avenida del Mar 606,1009,90123456-7,909876543,andres.bravo@email.com,Xiaomi,13,8435,Plan Premium,20000,true ,0,true ,0,true ,0
+Verónica Valdés,03/04/96,Calle del Río 707,1010,01234567-8,898765432,veronica.valdes@email.com,Galaxy,S14,6152,Plan Básico,12000,false ,120,false ,30,false ,50
+Raúl Molina,19/02/93,Calle del Campo 808,1011,12345679-0,887654321,raul.molina@email.com,Xiaomi,140,8453,Plan Básico,12000,false ,120,false ,30,false ,50
+Isabel González,12/07/97,Avenida Libertad 909,1012,23456780-1,876543210,isabel.gonzalez@email.com,Nokia,120,9182,Plan Premium,20000,true ,0,true ,0,true ,0
